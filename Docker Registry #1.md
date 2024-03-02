@@ -1,4 +1,4 @@
-#Tutoriel de base sur la mise en place et l'utilisation d'un Docker Registry privé. 
+# Tutoriel de base sur la mise en place et l'utilisation d'un Docker Registry privé. 
 Ce guide couvre l'installation d'un Registry local, la poussée (push) et la récupération (pull) d'images Docker.
 
 ### Prérequis
